@@ -37,3 +37,7 @@ The trained CNN classifies images into:
 - Paper
 - Scissors
 
+## Author
+Zerin Ameer 
+Oasis Infobyte Internship Project
+
